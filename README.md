@@ -1,4 +1,4 @@
-# Top 100 GraphQL Interview Questions in 2025
+# Top 100 GraphQL Interview Questions in 2026
 
 <div>
 <p align="center">
